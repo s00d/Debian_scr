@@ -1,11 +1,3 @@
-# 
-# touch install-ffmpeg.sh
-# chmod +x install-ffmpeg.sh
-# ./install-ffmpeg.sh
-#
-#
-
-
 apt-get update
 apt-get -y install autoconf automake build-essential libass-dev libfreetype6-dev libgpac-dev \
   libtheora-dev libtool libvorbis-dev \
